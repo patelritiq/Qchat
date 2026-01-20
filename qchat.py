@@ -1,6 +1,3 @@
-#--------------- Qchat ------------------
-
-
 from uuid import uuid4
 from nicegui import ui
 
@@ -31,5 +28,6 @@ def home():
             message_input = ui.input(placeholder='Type your message...') \
                 .props('rounded outlined').classes('flex-grow') \
                 .on('keydown.enter', send_message)
+
 
 ui.run()
