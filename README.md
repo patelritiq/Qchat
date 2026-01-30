@@ -17,7 +17,6 @@
 * **User Tracking:** `uuid4` for session-based user identification.
 * **Avatar API:** Robohash (Set to `bg2` background style).
 * **Styling:** Tailwind CSS classes (via NiceGUI) for layout and alignment.
-* **Author:** Ritik Pratap Singh Patel
 
 ---
 
