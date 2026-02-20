@@ -1,3 +1,11 @@
+> **⚠️ This repository has been archived and moved.**
+> 
+> This project is now part of the comprehensive [CodeClause-Internship-Projects](https://github.com/patelritiq/CodeClause-Internship-Projects) repository.
+> 
+> Please visit the new repository for the latest version and all CodeClause internship projects.
+
+
+
 # Qchat: A Simple Chat Application 💬
 
 **Qchat** is a minimalistic, real-time chat application built using **NiceGUI**, a Python framework for building web applications. This project allows users to send and receive messages instantly with a clean, modern interface and unique user identification.
